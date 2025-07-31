@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Environment files (for testing)
+.env
+.env.*
+.envvault/
+.envvault_test/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Local development only
+*.local
+*.lock
