@@ -1,4 +1,3 @@
 # env-sync
 
-A secure, cross‑platform .env manager with local vaults, symlink support, and optional encrypted cloud sync.
-
+A CLI tool for environment variable synchronization, powered by Rust.
